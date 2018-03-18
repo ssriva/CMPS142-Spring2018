@@ -39,7 +39,7 @@ Instructor
 : [Snigdha Chaturvedi](https://sites.google.com/site/snigdhac/)
 
 Discussion Forum
-: [Piazza]()
+: [Piazza](piazza.com/university_of_california_santa_cruz/spring2018/cmps142/home)
 
 Lectures
 : Spring 2018, TuTh 1:30-3:05 in  	N. Sci Annex 101 
