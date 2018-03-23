@@ -48,10 +48,12 @@ Sections
 : 2 discussion sections W 12-01:05 PM and F 01:20-02:25 PM in PhysSciences 140 
 : <font color="blue"> Enrollment in discussion sections is strongly recommened </font>
 
-
 Office hours
 : Instructor: Tuesdays 3:15-4:15 (tentative). 
 : TA: TBA
+
+Final Exam
+: June 12 from 4-7PM 
 
 Prerequisites
 :	* CMPS  101  (advanced  data  structures  and  algorithms)
@@ -73,7 +75,7 @@ serious issues and will result in a zero on the assignment, a lowered grade in t
 and a report to the department, and Dean of Graduate Studies.  Improperly borrowed
 work can be as large as an entire solution or as small as a single sentence, figure, or
 idea.  [See also](http://www.ucsc.edu/academics/academic_integrity/undergraduate_students)
-* If  you  qualify  for  classroom  accommodations  because  of  a  disability,  please  get  an accommodation Authorization from the Disability Resource Center (DRC) and submit it to me in person during my office hours or by appointment within the first two weeks of the quarter.  Contact DRC by phone at 831-459-2089, or by email at drc@ucsc.edu for more information.
+* UC Santa Cruz is committed to creating an academic environment that supports its diverse student body. If you are a student with a disability who requires accommodations to achieve equal access in this course, please submit your Accommodation Authorization Letter from the Disability Resource Center (DRC) to me privately during my office hours or by appointment, preferably within the first two weeks of the quarter. At this time, I would also like us to discuss ways we can ensure your full participation in the course. I encourage all students who may benefit from learning more about DRC services to contact DRC by phone at 831-459-2089, or by email at drc@ucsc.edu
 * If you need accommodation due to conflicts, family emergencies, illness/injury, or other difficulties, inform the instructor as soon as possible.  An “incomplete” is only given by request when there is a medical, family, or similar emergency that prevents a student who has been doing clearly passing work from finishing the course.
 
 
