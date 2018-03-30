@@ -48,9 +48,9 @@ Sections
 : 2 discussion sections W 12-01:05 PM and F 01:20-02:25 PM in PhysSciences 140 
 : <font color="blue"> Enrollment in discussion sections is strongly recommened </font>
 
-Office hours
-: Instructor: Tuesdays 3:15-4:15 (tentative). 
-: TA: TBA
+Office hours (tentative)
+: Instructor: Tuesdays 3:15-4:15. 
+: TA: Wednesdays 10:00-11:00.
 
 Final Exam
 : June 12 from 4-7PM 
