@@ -61,7 +61,9 @@ Prerequisites
 	* either AMS 131 or CE 107 (probability)
 
 <div class="alert alert-info"> While exceptions can be made on a case-to-case basis, they are at the student's own risk. Exceptions will not be made before end of March, 2018. Also, there won't be wailist until start of second pass of enrollment. </div>
- 
+
+<div class="alert alert-info"> It is strongly recommended that you attend the first two lectures if you want to retain your seat in class or continue to be on the waiting list. See information [here](https://registrar.ucsc.edu/soc/enrollment-information.html) </div>
+
 
 Other notes (likely to change in the first few weeks):
 : * Evaluation will be based on regular homework assignments, including a multi-week project towards the end of the course, and the final exam.  Exam and homework will be weighted about equally, although I reserve the right to not pass students with very poor performance on the final regardless of their other scores.
