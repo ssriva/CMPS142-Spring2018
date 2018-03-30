@@ -62,7 +62,7 @@ Prerequisites
 
 <div class="alert alert-info"> While exceptions can be made on a case-to-case basis, they are at the student's own risk. Exceptions will not be made before end of March, 2018. Also, there won't be wailist until start of second pass of enrollment. </div>
 
-<div class="alert alert-info"> It is strongly recommended that you attend the first two lectures if you want to retain your seat in class or continue to be on the waiting list. Check this   [this](https://registrar.ucsc.edu/soc/enrollment-information.html) https://registrar.ucsc.edu/soc/enrollment-information.html for more information. </div>
+<div class="alert alert-info"> It is strongly recommended that you attend the first two lectures if you want to retain your seat in class or continue to be on the waiting list. Check https://registrar.ucsc.edu/soc/enrollment-information.html for more information. </div>
 
 
 Other notes (likely to change in the first few weeks):
