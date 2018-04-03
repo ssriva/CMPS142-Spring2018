@@ -102,7 +102,7 @@ The lecture schedule will be updated as the term progresses.
        <td>
         {% if lecture.videos %} 
           {% for video in lecture.videos %}
-          {% if video.authors %} {{ video.authors }}, 
+          {% if video.authors %} {{ video.authors }}, {% endif %}
 	  <a href="{{ video.url }}">{{ video.title }}</a> 
           {% if video.length %} ({{ video.length }}) {% endif %}
             <br />
