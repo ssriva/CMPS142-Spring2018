@@ -1,4 +1,8 @@
 -
-  date: 2018-04-02
+  date: 2018-04-03
   slides: slides/day01.pdf
-  title: Course Intro 
+  title: Introduction to Machine Learning 
+  videos:
+    - 
+      title: HW0 is out!
+      url: hw/hw0.pdf
