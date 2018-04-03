@@ -36,7 +36,7 @@ The lecture schedule will be updated as the term progresses.
       <th>Date</th> 
       <th>Topic</th>
       <th>Readings</th>
-      <th>Supplemental Material</th>
+      <th>Announcements</th>
     </tr>
   </thead>
   <tbody>
